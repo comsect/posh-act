@@ -1,0 +1,119 @@
+site_name: Sexual Harassment of Women at Workplace Act, 2013
+site_url: https://www.comsect.in/posh-act/
+site_author: Comsect™
+site_description: The Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013.
+theme:
+  name: material
+  language: en
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: light blue
+      accent: light blue
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: light blue
+      accent: light blue
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  features:
+    - navigation.footer
+    - navigation.tabs
+    - content.tooltips
+
+extra_css:
+  - stylesheets/extra.css
+
+markdown_extensions:
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+  - footnotes
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - abbr
+  - attr_list
+  - md_in_html
+  - pymdownx.snippets
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/company/comsect
+      name: Comsect™ on LinkedIn
+    - icon: fontawesome/brands/github
+      link: https://github.com/comsect
+      name: Comsect™ on GitHub
+    - icon: fontawesome/brands/youtube
+      link: https://youtube.com/@comsect
+      name: Comsect™ on YouTube
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - abbr
+  - attr_list
+  - md_in_html
+  - pymdownx.snippets
+
+plugins:
+  - search:
+      lang: en
+  - minify:
+      minify_html: true
+  - social:
+      cards_layout_options:
+        background_color: "#06038D"
+
+nav:
+  - Home: index.md
+  - Chapter I - Preliminary:
+    - Section 1: en/1.md
+    - Section 2: en/2.md
+    - Section 3: en/3.md
+  - Chapter II - Constitution of Internal Complaints Committee:
+    - Section 4: en/4.md
+  - Chapter III - Constitution of Local Complaints Committee:
+    - Section 5: en/5.md
+    - Section 6: en/6.md
+    - Section 7: en/7.md
+    - Section 8: en/8.md
+  - Chapter IV - Complaint:
+    - Section 9: en/9.md
+    - Section 10: en/10.md
+    - Section 11: en/11.md
+  - Chapter V - Inquiry into Complaint:
+    - Section 12: en/12.md
+    - Section 13: en/13.md
+    - Section 14: en/14.md
+    - Section 15: en/15.md
+    - Section 16: en/16.md
+    - Section 17: en/17.md
+    - Section 18: en/18.md
+  - Chapter VI - Duties of Employer:
+    - Section 19: en/17.md
+  - Chapter VII - Duties and Powers of District Officer:
+    - Section 20: en/20.md
+  - Chapter VIII - Miscellaneous:
+    - Section 21: en/21.md
+    - Section 22: en/22.md
+    - Section 23: en/23.md
+    - Section 24: en/24.md
+    - Section 25: en/25.md
+    - Section 26: en/26.md
+    - Section 27: en/27.md
+    - Section 28: en/28.md
+    - Section 29: en/29.md
+    - Section 30: en/30.md 
+
+copyright: Copyright © 2024 <a href="https://www.github.com/comsect">Comsect™</a>. All rights reserved.
