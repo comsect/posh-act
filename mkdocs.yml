@@ -57,15 +57,6 @@ extra:
       link: https://youtube.com/@comsect
       name: Comsect™ on YouTube
 
-markdown_extensions:
-  - admonition
-  - pymdownx.details
-  - pymdownx.superfences
-  - abbr
-  - attr_list
-  - md_in_html
-  - pymdownx.snippets
-
 plugins:
   - search:
       lang: en
