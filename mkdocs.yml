@@ -5,6 +5,8 @@ site_description: The Sexual Harassment of Women at Workplace (Prevention, Prohi
 theme:
   name: material
   language: en
+  logo: assets/ashoka-chakra-logo.png
+  favicon: assets/comsect-logo.png
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
