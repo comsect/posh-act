@@ -8,6 +8,6 @@
     --md-typeset-a-color: #FFFFFF;
 }
 
-div {
+div.md-content {
   text-align: justify;
 }
