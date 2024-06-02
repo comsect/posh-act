@@ -1,6 +1,6 @@
 site_name: Sexual Harassment of Women at Workplace Act
 site_url: https://www.comsect.in/posh-act/
-site_author: Comsect™
+site_author: Comsect®
 site_description: The Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013.
 theme:
   name: material
@@ -111,4 +111,4 @@ nav:
     - Section 29: en/29.md
     - Section 30: en/30.md 
 
-copyright: Copyright &copy 2024 <a href="https://www.github.com/comsect">Comsect™</a>. All rights reserved.
+copyright: Copyright &copy 2024 <a href="https://www.github.com/comsect">Comsect<sup>&reg;</sup></a>. All rights reserved.
