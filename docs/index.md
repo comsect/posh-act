@@ -2,7 +2,7 @@
 hide:
     - toc
     - navigation
-description: Home
+description: Introduction
 ---
 
 An Act to provide protection against sexual harassment of women at workplace and for the prevention and redressal of complaints of sexual harassment and for matters connected

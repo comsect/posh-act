@@ -71,7 +71,7 @@ plugins:
         background_color: "#06038D"
 
 nav:
-  - Home: index.md
+  - Introduction: index.md
   - Chapter I - Preliminary:
     - Section 1: en/1.md
     - Section 2: en/2.md
